@@ -1,6 +1,7 @@
 # hello-world
 Me test repository
 AO test nr 1 !:)
+Ceri
 
 
 #Zestaw technologii, które są mi potrzebne:
