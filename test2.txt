@@ -3,3 +3,5 @@ ZMIANA!!!
 
 
 A teraz zmiana lokalna!!!! aaa
+
+(po mergu)

@@ -4,3 +4,8 @@ chaneg 2master / chaneg 2kolejny-branch (zmiana w ceri)
 
 java1
 spring2 (po mergu)
+chaneg 2kolejny-branch (zmiana w ceri)
+
+!!!!
+
+(po mergu)
