@@ -427,3 +427,29 @@ http://kobietydokodu.pl/25-publikujemy-aplikacje-w-internecie/
 3. Zacznij prowadzić swój blog! Czytaj kody innych programistów i rozmawiaj z nimi.
 4. Zacznij udzielać się w jakims opensource. To może jeszcze nie…. Ale kiedyś…
 5. pobawić się narzędziami UI do git, zrobić revert/merge/rebase!!!!
+
+
+Linki z Uni:
+
+http://blog.sapiensworks.com/tags.html
+
+https://howtodoinjava.com/java8/complete-lambda-expressions-tutorial-in-java/
+https://howtodoinjava.com/java8/java-8-tutorial-streams-by-examples/
+
+https://javarevisited.blogspot.com/2013/03/0-exception-handling-best-practices-in-Java-Programming.html
+
+https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
+
+https://github.com/gothinkster/realworld   male przyklady na rozne technologie!!!
+
+http://art-of-software.blogspot.com/   BLOG SŁAWKA SOBÓTKI!!!
+
+https://www.journaldev.com   super tutoriale na rozne tematy (java8), z przykladowymi kodami
+
+http://slawekturowicz.blogspot.com/2011/01/transakcyjnosc-w-springu.html (gosc dobrze tlumaczy)
+
+http://pawelwlodarski.blogspot.com/2019/01/kotlin-plus-spring-minus-adnotacje.html (blog od Łukasza)
+
+
+
+
