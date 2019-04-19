@@ -451,5 +451,25 @@ http://slawekturowicz.blogspot.com/2011/01/transakcyjnosc-w-springu.html (gosc d
 http://pawelwlodarski.blogspot.com/2019/01/kotlin-plus-spring-minus-adnotacje.html (blog od Łukasza)
 
 
+MYBATIS:
+https://www.tutorialspoint.com/mybatis/mybatis_quick_guide.htm
+http://www.mybatis.org/mybatis-3/configuration.html
+https://blog.sapiensworks.com/post/2014/03/26/Rich-Domain-Is-SOLID-Anaemic-Domain-Is-An-Anti-Pattern.aspx
+
+ANGULAR:
+Bardzo dobry opis angular:
+https://www.ibm.com/developerworks/library/wa-implement-a-single-page-application-with-angular2/index.html
+
+https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
+
+Bootstrap4 in Angular5:
+
+https://www.techiediaries.com/angular-bootstrap/
+
+cd C:\WorkspaceAO\my_ng5-master
+npm install --save bootstrap
+
+https://dzone.com/articles/build-a-basic-crud-app-with-angular-50-and-spring
+
 
 
